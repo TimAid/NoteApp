@@ -16,6 +16,6 @@ Here I use class Note as a Model
 I used RealmSwift. So if you wanna check this app need to install pods. I crearte another model RealmNote so save new note there. I transfer RealmNote model to Note with help of convinience initialization.
 If you want to open note u will see data from Note model. Save note in both model. And delete action also in both models. 
 
-** SearchController** 
+**SearchController** 
 
 There are a search controller that helps search notes in app
