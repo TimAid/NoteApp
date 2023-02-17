@@ -3,6 +3,7 @@
 NoteApp is a simple, yet playful app built with UIKit programmatically ! I had to go through and am still going through to build test app on UIKit. Hope you enjoy.
 
 **Highlights:**
+
 <img src="https://user-images.githubusercontent.com/88784467/219719704-d573ef31-3650-4544-8363-8fb49572532d.png" width="200" height="400"> <img src="https://user-images.githubusercontent.com/88784467/219719687-f1bce780-6b83-4de1-a655-bc49691ae2aa.png" width="200" height="400"> <img src="https://user-images.githubusercontent.com/88784467/219719697-8af1ed6f-831d-4eca-9d2f-4c5f17d615de.png" width="200" height="400"> 
 
 
